@@ -2,7 +2,7 @@
 int main (){
     float a;
     printf("entera no");
-    scanf("%f",a)
+    scanf("%.2f",a)
     
 }
 
