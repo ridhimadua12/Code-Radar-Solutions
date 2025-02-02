@@ -3,7 +3,6 @@ int main (){
     float a;
     printf("entera no");
     scanf("%.2f\n",&a);
-    return 0;
-    
+    return 0; 
 }
 
