@@ -2,9 +2,9 @@
 int main (){
     char name[100];
     char score[100];
-    scanf("%c",& name);
-    scanf("%c",& score);
-    printf("You entered: %c", name and score);
+    scanf("%s",& name);
+    scanf("%s",& score);
+    printf("You entered: %s and %s\n", name,score);
     return 0;
 }
 
