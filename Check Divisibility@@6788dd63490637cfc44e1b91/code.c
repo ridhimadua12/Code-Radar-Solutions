@@ -5,7 +5,7 @@ int main(){
     if (a%5==0 && a%11==0){
     printf("Divisble");
     }else{
-        ("Not Divible")
+        printf("Not Divible");
     }
     return 0; 
 }
