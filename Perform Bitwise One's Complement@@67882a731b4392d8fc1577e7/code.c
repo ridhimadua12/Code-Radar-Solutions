@@ -2,7 +2,7 @@
 
 int main() {
     int  num2, result;
-    scanf("%d %d", &num2);
+    scanf("%d ", &num2);
     result = ~num2;
     printf("%d\n", result);
     
