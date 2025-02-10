@@ -5,10 +5,13 @@
     if (a=b && b=c&& c=a){
              
     printf("Equilateral");
-    }else{
-        printf("Isoscales")
+    }else if ( a=b && b!=c){
+        printf("Isosceles")
+        
     }
-    return 0;
+    else{
+        printf("Scalene")
+    }
    
  }
 
