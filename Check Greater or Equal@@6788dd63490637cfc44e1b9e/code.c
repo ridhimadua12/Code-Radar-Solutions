@@ -6,15 +6,10 @@ int main (){
     if (first_digit>=second_digit){
         printf("Yes\n");
     }
-
-
-        else (first_digit<second_digit){
+        else{
             printf("No\n");
         }
-        
-       
-        
-        return 0;
+        return 0;{
     }
 
 
