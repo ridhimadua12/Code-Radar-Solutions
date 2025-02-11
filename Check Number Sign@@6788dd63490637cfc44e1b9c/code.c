@@ -2,17 +2,15 @@
 int main ()
 {
     int a;
-    if (a>0){
+    if (a>!=0){
         printf ("Positive");
-    }else if (a==0){
+    }
+    else if (a==0){
         printf ("Zero");
 
     }else {
         printf ("Negative");
     }
-    return 0;
-
-
-    
+    return 0; 
     
 }
