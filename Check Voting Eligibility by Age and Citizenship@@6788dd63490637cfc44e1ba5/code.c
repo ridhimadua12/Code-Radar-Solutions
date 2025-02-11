@@ -5,11 +5,14 @@ int main  ()
     scanf ("%d%d",&a,&b);
     if (a>=18 && a==0) {
         printf ("Eligible");
-        else {
+    }
+    else {
             printf("Not Eligible");
         }
         return 0;
 
     }
 
-}
+
+
+        
