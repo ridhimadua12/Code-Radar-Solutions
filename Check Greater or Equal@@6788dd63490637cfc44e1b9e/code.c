@@ -4,9 +4,9 @@ int main (){
     int second_digit;
     scanf ("%d%d",&first_digit,&second_digit);
     if (first_digit>second_digit){
-        printf("Yes");}
+        printf("Yes\n");}
         else {
-            printf("No");
+            printf("No\n");
         }
         return 0;
     }
